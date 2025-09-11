@@ -1,0 +1,12 @@
+{
+  "uid": "card-tabbed-photo-carousel",
+  "type": "card",
+  "config": {
+    "name": "Tabbed Photo Carousel",
+    "location": "crm.record.tab",
+    "entrypoint": "/app/cards/PhotoCarouselCard.tsx",
+    "objectTypes": [
+      "contacts"
+    ]
+  }
+}
