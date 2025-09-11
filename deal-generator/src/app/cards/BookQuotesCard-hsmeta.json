@@ -1,0 +1,12 @@
+{
+  "uid": "card-book-deals-to-quotes",
+  "type": "card",
+  "config": {
+    "name": "Book Deals to Quotes",
+    "location": "crm.record.tab",
+    "entrypoint": "/app/cards/BookQuotesCard.tsx",
+    "objectTypes": [
+      "contacts"
+    ]
+  }
+}

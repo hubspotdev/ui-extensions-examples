@@ -1,0 +1,5 @@
+{
+  "proxy": {
+    "https://book-quotes-api.com": "http://localhost:3000"
+  }
+}

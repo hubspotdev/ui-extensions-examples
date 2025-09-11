@@ -1,0 +1,32 @@
+{
+  "uid": "book-deals-to-quotes",
+  "type": "app",
+  "config": {
+    "description": "An example to demonstrate how to build an app card with UI Extensions that creates a shopping cart experience and turns a quote into a HubSpot deal",
+    "name": "book-deals-to-quotes",
+    "distribution": "private",
+    "auth": {
+      "type": "static",
+      "requiredScopes": [
+        "crm.objects.contacts.read",
+        "crm.objects.contacts.write"
+      ],
+      "optionalScopes": [],
+      "conditionallyRequiredScopes": []
+    },
+    "permittedUrls": {
+      "fetch": [
+        "https://api.hubapi.com",
+        "https://book-quotes-api.com"
+      ],
+      "iframe": [],
+      "img": []
+    },
+    "support": {
+      "supportEmail": "support@example.com",
+      "documentationUrl": "https://example.com/docs",
+      "supportUrl": "https://example.com/support",
+      "supportPhone": "+18005555555"
+    }
+  }
+}
