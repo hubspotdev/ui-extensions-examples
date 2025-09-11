@@ -1,0 +1,12 @@
+{
+  "uid": "card-charts",
+  "type": "card",
+  "config": {
+    "name": "Charts Card",
+    "location": "crm.record.tab",
+    "entrypoint": "/app/cards/ChartsCard.tsx",
+    "objectTypes": [
+      "contacts"
+    ]
+  }
+}
