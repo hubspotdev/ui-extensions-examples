@@ -1,0 +1,12 @@
+{
+  "uid": "healthcare-patient-referral-sample-by-industry",
+  "type": "card",
+  "config": {
+    "name": "[Healthcare] Patient Referral (Samples By Industry)",
+    "location": "crm.record.tab",
+    "entrypoint": "/app/cards/HealthcarePatientReferralCard.tsx",
+    "objectTypes": [
+      "contacts"
+    ]
+  }
+}

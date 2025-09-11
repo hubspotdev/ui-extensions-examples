@@ -1,0 +1,12 @@
+{
+  "uid": "manufacturing-returns-sample-by-industry",
+  "type": "card",
+  "config": {
+    "name": "[Manufacturing] Returns (Samples By Industry)",
+    "location": "crm.record.tab",
+    "entrypoint": "/app/cards/ManufacturingReturnsCard.tsx",
+    "objectTypes": [
+      "contacts"
+    ]
+  }
+}

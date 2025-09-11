@@ -1,0 +1,12 @@
+{
+  "uid": "education-course-enrollment-sample-by-industry",
+  "type": "card",
+  "config": {
+    "name": "[Education] Course Enrollment (Samples By Industry)",
+    "location": "crm.record.tab",
+    "entrypoint": "/app/cards/EducationCourseEnrollmentCard.tsx",
+    "objectTypes": [
+      "contacts"
+    ]
+  }
+}

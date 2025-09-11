@@ -1,0 +1,12 @@
+{
+  "uid": "manufacturing-production-sample-by-industry",
+  "type": "card",
+  "config": {
+    "name": "[Manufacturing] Production (Samples By Industry)",
+    "location": "crm.record.tab",
+    "entrypoint": "/app/cards/ManufacturingProductionCard.tsx",
+    "objectTypes": [
+      "contacts"
+    ]
+  }
+}
