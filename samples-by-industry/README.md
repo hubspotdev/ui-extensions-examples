@@ -111,5 +111,6 @@ When making changes to configuration files (`{CARD_NAME}-hsmeta.json` and `app-h
 
 ## Learn More About App Cards Powered by UI Extensions
 
-
 To learn more about building public app cards, visit the [HubSpot app cards landing page](https://developers.hubspot.com/build-app-cards) and check out the [HubSpot app cards developer documentation](https://developers.hubspot.com/docs/apps/developer-platform/add-features/ui-extensibility/app-cards/overview).
+
+**Created By:** `Bree Hall`
